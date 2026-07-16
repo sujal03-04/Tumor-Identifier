@@ -1,6 +1,6 @@
 # Brain MRI Tumor Classification with CNN + Grad-CAM
 
-A convolutional neural network (CNN) built from scratch in PyTorch to classify
+A convolutional neural network (CNN) built in PyTorch to classify
 brain MRI scans into four tumor categories, with Grad-CAM explainability
 overlays showing which brain regions the model attends to when making each
 prediction.
@@ -17,7 +17,7 @@ prediction.
 | Class | Description |
 |---|---|
 | Glioma | Malignant tumor arising from glial cells |
-| Meningioma | Tumor arising from the meninges (brain lining) |
+| Meningioma | Tumor arising from the meninges |
 | Pituitary | Tumor in the pituitary gland region |
 | No tumor | Healthy brain scan |
 
